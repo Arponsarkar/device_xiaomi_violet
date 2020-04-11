@@ -274,6 +274,18 @@ vendor/firmware/goodixfp.b02
 vendor/firmware/goodixfp.b03
 vendor/firmware/goodixfp.b04
 
+# GPU Firmware
+vendor/firmware/a612_zap.b01
+vendor/firmware/a612_zap.elf
+vendor/firmware/a612_zap.mdt
+
+# IPA Firmware
+vendor/firmware/ipa_fws.b00
+vendor/firmware/ipa_fws.b01
+vendor/firmware/ipa_fws.b02
+vendor/firmware/ipa_fws.elf
+vendor/firmware/ipa_fws.mdt
+
 # QDCM
 vendor/etc/qdcm_calib_data_ft8719_video_mode_dsi_tianma_panel.xml|fe86baccb9bd56be0890c8986972e34ae514db5d
 vendor/etc/qdcm_calib_data_nt36672a_video_mode_dsi_shenchao_panel.xml|b386d511c2d651318aff2ecc0b2ac3d01469a704
