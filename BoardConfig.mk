@@ -13,7 +13,6 @@ TARGET_SCREEN_DENSITY := 440
 DEVICE_PATH := device/xiaomi/violet
 
 # Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Assert
