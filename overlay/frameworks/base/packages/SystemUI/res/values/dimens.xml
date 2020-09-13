@@ -26,4 +26,10 @@
     <dimen name="status_bar_padding_top">1dp</dimen>
 
     <dimen name="system_icons_keyguard_padding_end">12dp</dimen>
+
+    <!-- Padding for icons of the status bar from the corners. -->
+    <dimen name="status_bar_extra_padding">8dp</dimen>
+
+    <!-- Default radius of the software rounded corners. -->
+    <dimen name="rounded_corner_radius">37dp</dimen>
 </resources>
