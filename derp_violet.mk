@@ -13,9 +13,6 @@ $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 DERP_BUILDTYPE := Official
 TARGET_SUPPORTS_QUICK_TAP := true
 
-# Inherit ANX Camera
-$(call inherit-product, vendor/ANXCamera/config.mk)
-
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 USE_LEGACY_BOOTANIMATION := true
